@@ -1,0 +1,26 @@
+Investigate Room
+- more interactive stuff
+- clothing rack/detective dress up
+- upright steve's solution
+- makeup sprites for vanity
+- puff animation
+
+SOUNDS
+- glug glug sound
+- puff cough sound
+- whistle sound
+
+Bar Scene
+- fix silhouettes
+- another room with stage
+- conversations with silhouettes
+- more atmospheric (lights) effects
+
+Cameraman Death Scene
+- Sprite where cameraman looks back as they run
+- slower music where cameraman is walking
+
+Cameraman Death Investigation Scene
+- 
+- 
+- 
