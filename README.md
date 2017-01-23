@@ -4,9 +4,9 @@ Hi everyone!
 
 This is the source code/source game for Shoot to Kill (Formerly presented as Final Cut)!
 
-This game is a film-noire-eqsue game (phew that's a mouthful) that combines 8-bit artwork (made by yours truly) along with jazzy music (also made by yours truly) combined with film aspects! (Done by Veve)
+This game is a film-noire-esque game (phew that's a mouthful) that combines 8-bit artwork (made by yours truly) along with jazzy music (also made by yours truly) combined with film aspects! (Done by Veve)
 
-#IF YOU HAVE ANY QUESTIONS AND INQUIRYS DON'T HESITATE TO ASK ME I WILL ANSWER ANYTHING!
+#IF YOU HAVE ANY QUESTIONS AND INQUIRIES DON'T HESITATE TO ASK ME I WILL ANSWER ANYTHING!
 #IF YOU SEE THIS GAME BEING SOLD/MONETIZED/DISTRIBUTED PLEASE REPORT IT AS WE HAVE NOT GIVEN PERMISSION NOR ALLOWED TO SELL IT
 #(EVEN IF IT'S BEING SOLD BY ONE OF US; I HAVE NOT GIVEN PERMISSION NOR HAS LINDSAY)
 
